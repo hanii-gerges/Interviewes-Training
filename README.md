@@ -16,7 +16,7 @@ ________________________________________________________________________________
 # Day #3
 ## Problem: [Cyclic Components](https://codeforces.com/problemset/problem/977/E)
 + Time & Memory Complexity Solutions:
-  - To be added
+  - O(V+E) Time & O(V/32) Memory ([Solution](https://github.com/omar2682000/Interviewes-Training/blob/main/Solutions/Cyclic_Components.cpp))
 ________________________________________________________________________________________________________________________________________
 # Day #4
 ## Problem: [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)
